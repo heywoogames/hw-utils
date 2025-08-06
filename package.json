@@ -1,0 +1,23 @@
+{
+  "name": "@heywoogames/hw-utils",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "description": "the hw utilis library",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test --test-reporter=spec"
+  },
+  "keywords": [
+    "utils",
+    "hw"
+  ],
+  "repository": "https://github.com/heywoogames/hw-utils.git",
+  "author": "shudingbo",
+  "publishConfig": {
+    "@heywoogames:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+  }
+}
